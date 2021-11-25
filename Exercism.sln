@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TwoFer", "TwoFer\TwoFer.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TisburyTreasureHunt", "TisburyTreasureHunt\TisburyTreasureHunt.fsproj", "{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GuessingGame", "GuessingGame\GuessingGame.fsproj", "{033B9FB6-133A-46CB-8D5A-2A293691DCDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033B9FB6-133A-46CB-8D5A-2A293691DCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033B9FB6-133A-46CB-8D5A-2A293691DCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033B9FB6-133A-46CB-8D5A-2A293691DCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033B9FB6-133A-46CB-8D5A-2A293691DCDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
