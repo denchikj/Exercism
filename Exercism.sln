@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Exercism", "Exercism\Exercism.fsproj", "{C56F73F4-3839-4DBC-B0B0-E6BB7A9900CD}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TwoFer", "TwoFer\TwoFer.fsproj", "{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C56F73F4-3839-4DBC-B0B0-E6BB7A9900CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C56F73F4-3839-4DBC-B0B0-E6BB7A9900CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C56F73F4-3839-4DBC-B0B0-E6BB7A9900CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C56F73F4-3839-4DBC-B0B0-E6BB7A9900CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
