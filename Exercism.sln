@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TwoFer", "TwoFer\TwoFer.fsproj", "{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "TwoFer", "TwoFer\TwoFer.fsproj", "{26EC5CB5-3A8F-4C89-BE8A-4AB2E1FA7A32}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TisburyTreasureHunt", "TisburyTreasureHunt\TisburyTreasureHunt.fsproj", "{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "TisburyTreasureHunt", "TisburyTreasureHunt\TisburyTreasureHunt.fsproj", "{ED2E0F1A-F94E-4007-A674-CEF04481C4D4}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GuessingGame", "GuessingGame\GuessingGame.fsproj", "{033B9FB6-133A-46CB-8D5A-2A293691DCDB}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "GuessingGame", "GuessingGame\GuessingGame.fsproj", "{033B9FB6-133A-46CB-8D5A-2A293691DCDB}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CarsAssemble", "CarsAssemble\CarsAssemble.fsproj", "{F5318706-BEF3-4A1C-8646-43D646FE8A80}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CarsAssemble", "CarsAssemble\CarsAssemble.fsproj", "{F5318706-BEF3-4A1C-8646-43D646FE8A80}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AnnalynsInfiltration", "AnnalynsInfiltration\AnnalynsInfiltration.fsproj", "{319857DE-679C-4BC2-8CA4-6F3C21E83479}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AnnalynsInfiltration", "AnnalynsInfiltration\AnnalynsInfiltration.fsproj", "{319857DE-679C-4BC2-8CA4-6F3C21E83479}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LogLevels", "LogLevels\LogLevels.fsproj", "{523A11DB-A71D-43B5-B21B-F659E8B49FC9}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "LogLevels", "LogLevels\LogLevels.fsproj", "{523A11DB-A71D-43B5-B21B-F659E8B49FC9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bandwagoner", "Bandwagoner\Bandwagoner.fsproj", "{38AD0769-C095-4526-9A84-F47EE61449CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{523A11DB-A71D-43B5-B21B-F659E8B49FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523A11DB-A71D-43B5-B21B-F659E8B49FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523A11DB-A71D-43B5-B21B-F659E8B49FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AD0769-C095-4526-9A84-F47EE61449CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AD0769-C095-4526-9A84-F47EE61449CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AD0769-C095-4526-9A84-F47EE61449CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AD0769-C095-4526-9A84-F47EE61449CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
