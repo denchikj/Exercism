@@ -15,11 +15,13 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AnnalynsInfiltration", "Ann
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "LogLevels", "LogLevels\LogLevels.fsproj", "{523A11DB-A71D-43B5-B21B-F659E8B49FC9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bandwagoner", "Bandwagoner\Bandwagoner.fsproj", "{38AD0769-C095-4526-9A84-F47EE61449CA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Bandwagoner", "Bandwagoner\Bandwagoner.fsproj", "{38AD0769-C095-4526-9A84-F47EE61449CA}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TracksOnTracksOnTracks", "TracksOnTracksOnTracks\TracksOnTracksOnTracks.fsproj", "{2E6D5723-2926-44B6-8173-DC38D918DEBD}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "TracksOnTracksOnTracks", "TracksOnTracksOnTracks\TracksOnTracksOnTracks.fsproj", "{2E6D5723-2926-44B6-8173-DC38D918DEBD}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ValentinesDay", "ValentinesDay\ValentinesDay.fsproj", "{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ValentinesDay", "ValentinesDay\ValentinesDay.fsproj", "{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BookingUpForBeauty", "BookingUpForBeauty\BookingUpForBeauty.fsproj", "{0D3753B1-3728-407F-B378-3C65FB29CE35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3753B1-3728-407F-B378-3C65FB29CE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3753B1-3728-407F-B378-3C65FB29CE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3753B1-3728-407F-B378-3C65FB29CE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3753B1-3728-407F-B378-3C65FB29CE35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
