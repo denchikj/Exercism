@@ -29,6 +29,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Meetup", "Meetup\Meetup.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BirdWatcher", "BirdWatcher\BirdWatcher.fsproj", "{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Strain", "Strain\Strain.fsproj", "{8A7B19A0-6430-41AE-B701-FFE559E3620C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7B19A0-6430-41AE-B701-FFE559E3620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7B19A0-6430-41AE-B701-FFE559E3620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7B19A0-6430-41AE-B701-FFE559E3620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7B19A0-6430-41AE-B701-FFE559E3620C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
