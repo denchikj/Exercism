@@ -33,6 +33,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Strain", "Strain\Strain.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BinarySearch", "BinarySearch\BinarySearch.fsproj", "{114C46DF-867E-402E-8010-B2F8735A44A4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PizzaPricing", "PizzaPricing\PizzaPricing.fsproj", "{0957FBDA-91C4-454F-86F7-047299F1339C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{114C46DF-867E-402E-8010-B2F8735A44A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114C46DF-867E-402E-8010-B2F8735A44A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114C46DF-867E-402E-8010-B2F8735A44A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0957FBDA-91C4-454F-86F7-047299F1339C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0957FBDA-91C4-454F-86F7-047299F1339C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0957FBDA-91C4-454F-86F7-047299F1339C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0957FBDA-91C4-454F-86F7-047299F1339C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
