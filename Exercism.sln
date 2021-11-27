@@ -25,6 +25,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BookingUpForBeauty", "Booki
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Gigasecond", "Gigasecond\Gigasecond.fsproj", "{4D541019-C9BC-413A-BD38-C2C920AB0B3A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Meetup", "Meetup\Meetup.fsproj", "{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4D541019-C9BC-413A-BD38-C2C920AB0B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D541019-C9BC-413A-BD38-C2C920AB0B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D541019-C9BC-413A-BD38-C2C920AB0B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
