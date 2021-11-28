@@ -1,6 +1,5 @@
 ﻿module PizzaPricing
 
-// TODO: please define the 'Pizza' discriminated union type
 type Pizza =
     | Margherita
     | Caprese
@@ -17,7 +16,7 @@ let rec pizzaPrice (pizza: Pizza) : int =
     | ExtraToppings et -> pizzaPrice et + 2
 
 let orderPrice (pizzas: Pizza list) : int =
-    let sum = Seq.sumBy pizzaPrice pizzas
+    let sum = Seq.sumBy pizzaPrice <| pizzas
 
     match pizzas.Length with
     | 1 -> sum + 3
