@@ -21,19 +21,21 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "TracksOnTracksOnTracks", "T
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ValentinesDay", "ValentinesDay\ValentinesDay.fsproj", "{B56E74FF-6E12-4C0E-BFD8-7AD5D0146878}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BookingUpForBeauty", "BookingUpForBeauty\BookingUpForBeauty.fsproj", "{0D3753B1-3728-407F-B378-3C65FB29CE35}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "BookingUpForBeauty", "BookingUpForBeauty\BookingUpForBeauty.fsproj", "{0D3753B1-3728-407F-B378-3C65FB29CE35}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Gigasecond", "Gigasecond\Gigasecond.fsproj", "{4D541019-C9BC-413A-BD38-C2C920AB0B3A}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Gigasecond", "Gigasecond\Gigasecond.fsproj", "{4D541019-C9BC-413A-BD38-C2C920AB0B3A}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Meetup", "Meetup\Meetup.fsproj", "{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Meetup", "Meetup\Meetup.fsproj", "{7CBC223E-18A7-4FDB-ACDF-9E794B9C364D}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BirdWatcher", "BirdWatcher\BirdWatcher.fsproj", "{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "BirdWatcher", "BirdWatcher\BirdWatcher.fsproj", "{3EEFBB2E-E5C6-49AB-A167-7CFCAFE77A52}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Strain", "Strain\Strain.fsproj", "{8A7B19A0-6430-41AE-B701-FFE559E3620C}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Strain", "Strain\Strain.fsproj", "{8A7B19A0-6430-41AE-B701-FFE559E3620C}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BinarySearch", "BinarySearch\BinarySearch.fsproj", "{114C46DF-867E-402E-8010-B2F8735A44A4}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "BinarySearch", "BinarySearch\BinarySearch.fsproj", "{114C46DF-867E-402E-8010-B2F8735A44A4}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PizzaPricing", "PizzaPricing\PizzaPricing.fsproj", "{0957FBDA-91C4-454F-86F7-047299F1339C}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PizzaPricing", "PizzaPricing\PizzaPricing.fsproj", "{0957FBDA-91C4-454F-86F7-047299F1339C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InterestIsInteresting", "InterestIsInteresting\InterestIsInteresting.fsproj", "{3D53D476-E62E-48ED-8D83-B057E529EB32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{0957FBDA-91C4-454F-86F7-047299F1339C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0957FBDA-91C4-454F-86F7-047299F1339C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0957FBDA-91C4-454F-86F7-047299F1339C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D53D476-E62E-48ED-8D83-B057E529EB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D53D476-E62E-48ED-8D83-B057E529EB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D53D476-E62E-48ED-8D83-B057E529EB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D53D476-E62E-48ED-8D83-B057E529EB32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
