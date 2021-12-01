@@ -37,15 +37,17 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PizzaPricing", "PizzaPricin
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "InterestIsInteresting", "InterestIsInteresting\InterestIsInteresting.fsproj", "{3D53D476-E62E-48ED-8D83-B057E529EB32}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Accumulate", "Accumulate\Accumulate.fsproj", "{9E934290-9FD6-49B0-8732-D21A0FE163B1}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Accumulate", "Accumulate\Accumulate.fsproj", "{9E934290-9FD6-49B0-8732-D21A0FE163B1}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bob", "Bob\Bob.fsproj", "{337128E4-8B3B-49B6-A98E-1D58A671FBCB}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Bob", "Bob\Bob.fsproj", "{337128E4-8B3B-49B6-A98E-1D58A671FBCB}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RobotSimulator", "RobotSimulator\RobotSimulator.fsproj", "{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RobotSimulator", "RobotSimulator\RobotSimulator.fsproj", "{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Pangram", "Pangram\Pangram.fsproj", "{323D7B1B-B7FC-4C31-9D34-81A700909663}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Pangram", "Pangram\Pangram.fsproj", "{323D7B1B-B7FC-4C31-9D34-81A700909663}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Isogram", "Isogram\Isogram.fsproj", "{55E72555-3347-4F74-97E7-A4EF0DE8CA3F}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Isogram", "Isogram\Isogram.fsproj", "{55E72555-3347-4F74-97E7-A4EF0DE8CA3F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ReverseString", "ReverseString\ReverseString.fsproj", "{50A37753-FDDC-4DCF-8444-D4EC75CD76EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{55E72555-3347-4F74-97E7-A4EF0DE8CA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55E72555-3347-4F74-97E7-A4EF0DE8CA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55E72555-3347-4F74-97E7-A4EF0DE8CA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A37753-FDDC-4DCF-8444-D4EC75CD76EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A37753-FDDC-4DCF-8444-D4EC75CD76EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A37753-FDDC-4DCF-8444-D4EC75CD76EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A37753-FDDC-4DCF-8444-D4EC75CD76EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
