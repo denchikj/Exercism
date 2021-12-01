@@ -43,6 +43,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bob", "Bob\Bob.fsproj", "{3
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RobotSimulator", "RobotSimulator\RobotSimulator.fsproj", "{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Pangram", "Pangram\Pangram.fsproj", "{323D7B1B-B7FC-4C31-9D34-81A700909663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6FF5587-C64A-4B7D-AC4B-B0709139D16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323D7B1B-B7FC-4C31-9D34-81A700909663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323D7B1B-B7FC-4C31-9D34-81A700909663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323D7B1B-B7FC-4C31-9D34-81A700909663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323D7B1B-B7FC-4C31-9D34-81A700909663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
