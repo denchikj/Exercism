@@ -55,6 +55,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SpaceAge", "SpaceAge\SpaceA
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Darts", "Darts\Darts.fsproj", "{AFF252CC-6D0C-4E99-952E-E7EF8473AE56}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Triangle", "Triangle\Triangle.fsproj", "{3B300160-0591-4DA9-93FD-CBA35BC765B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{AFF252CC-6D0C-4E99-952E-E7EF8473AE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF252CC-6D0C-4E99-952E-E7EF8473AE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF252CC-6D0C-4E99-952E-E7EF8473AE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B300160-0591-4DA9-93FD-CBA35BC765B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B300160-0591-4DA9-93FD-CBA35BC765B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B300160-0591-4DA9-93FD-CBA35BC765B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B300160-0591-4DA9-93FD-CBA35BC765B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
