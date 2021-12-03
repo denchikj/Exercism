@@ -65,6 +65,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PerfectNumbers", "PerfectNu
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.fsproj", "{F4B53672-D3BC-4330-9413-D66542EF17A5}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RomanNumerals", "RomanNumerals\RomanNumerals.fsproj", "{48AB378B-F481-4D35-9253-DAED04B7F8F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{F4B53672-D3BC-4330-9413-D66542EF17A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B53672-D3BC-4330-9413-D66542EF17A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B53672-D3BC-4330-9413-D66542EF17A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AB378B-F481-4D35-9253-DAED04B7F8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AB378B-F481-4D35-9253-DAED04B7F8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AB378B-F481-4D35-9253-DAED04B7F8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AB378B-F481-4D35-9253-DAED04B7F8F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
