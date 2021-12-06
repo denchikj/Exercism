@@ -75,6 +75,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KindergartenGarden", "Kinde
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Allergies", "Allergies\Allergies.fsproj", "{0B934D0E-D905-439B-9688-22AB820652F9}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Yacht", "Yacht\Yacht.fsproj", "{97685903-0DF6-456F-B1CE-61F9972E9F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{0B934D0E-D905-439B-9688-22AB820652F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B934D0E-D905-439B-9688-22AB820652F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B934D0E-D905-439B-9688-22AB820652F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97685903-0DF6-456F-B1CE-61F9972E9F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97685903-0DF6-456F-B1CE-61F9972E9F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97685903-0DF6-456F-B1CE-61F9972E9F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97685903-0DF6-456F-B1CE-61F9972E9F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
