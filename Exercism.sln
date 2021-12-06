@@ -61,15 +61,17 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Leap", "Leap\Leap.fsproj", 
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Clock", "Clock\Clock.fsproj", "{A1A42930-7602-48BD-B52E-A8EDC64FCE11}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PerfectNumbers", "PerfectNumbers\PerfectNumbers.fsproj", "{3BB2DF94-9155-4D3A-9F53-B8D4BACFEE65}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PerfectNumbers", "PerfectNumbers\PerfectNumbers.fsproj", "{3BB2DF94-9155-4D3A-9F53-B8D4BACFEE65}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.fsproj", "{F4B53672-D3BC-4330-9413-D66542EF17A5}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.fsproj", "{F4B53672-D3BC-4330-9413-D66542EF17A5}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RomanNumerals", "RomanNumerals\RomanNumerals.fsproj", "{48AB378B-F481-4D35-9253-DAED04B7F8F6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RomanNumerals", "RomanNumerals\RomanNumerals.fsproj", "{48AB378B-F481-4D35-9253-DAED04B7F8F6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.fsproj", "{684E0017-BB88-4483-ADF9-9896665CC4A2}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.fsproj", "{684E0017-BB88-4483-ADF9-9896665CC4A2}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BankAccount", "BankAccount\BankAccount.fsproj", "{E4F24CA3-4F9A-4D38-919C-6415F00245CA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "BankAccount", "BankAccount\BankAccount.fsproj", "{E4F24CA3-4F9A-4D38-919C-6415F00245CA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KindergartenGarden", "KindergartenGarden\KindergartenGarden.fsproj", "{D853E28A-6754-4E89-BBF8-D1CD6DBABF1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{E4F24CA3-4F9A-4D38-919C-6415F00245CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4F24CA3-4F9A-4D38-919C-6415F00245CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4F24CA3-4F9A-4D38-919C-6415F00245CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D853E28A-6754-4E89-BBF8-D1CD6DBABF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D853E28A-6754-4E89-BBF8-D1CD6DBABF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D853E28A-6754-4E89-BBF8-D1CD6DBABF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D853E28A-6754-4E89-BBF8-D1CD6DBABF1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
