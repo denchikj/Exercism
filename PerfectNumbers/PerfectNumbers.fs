@@ -5,14 +5,15 @@ type Classification =
     | Abundant
     | Deficient
 
-let classify n : Classification option =
-    let sum =
-        [ 1 .. n - 1 ]
-        |> Seq.filter (fun x -> n % x = 0)
-        |> Seq.sum
+let classify n =
+    if n < 1 then
+        None
+    else
+        let sumOfFactors =
+            [ for x in 1 .. n / 2 do
+                  if n % x = 0 then x ]
+            |> List.sum
 
-    match n with
-    | x when x > 0 && sum = n -> Some Perfect
-    | x when x > 0 && sum > n -> Some Abundant
-    | x when x > 0 && sum < n -> Some Deficient
-    | _ -> None
+        if sumOfFactors < n then Some Deficient
+        elif sumOfFactors > n then Some Abundant
+        else Some Perfect
