@@ -93,6 +93,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Zipper", "Zipper\Zipper.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TreeBuilding", "TreeBuilding\TreeBuilding.fsproj", "{B747B9CD-4773-463F-B7CE-FD3D78B178B0}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sublist", "Sublist\Sublist.fsproj", "{DCE9A63C-E4AF-4E59-AFA5-A0C844D88076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{B747B9CD-4773-463F-B7CE-FD3D78B178B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B747B9CD-4773-463F-B7CE-FD3D78B178B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B747B9CD-4773-463F-B7CE-FD3D78B178B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE9A63C-E4AF-4E59-AFA5-A0C844D88076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE9A63C-E4AF-4E59-AFA5-A0C844D88076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE9A63C-E4AF-4E59-AFA5-A0C844D88076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE9A63C-E4AF-4E59-AFA5-A0C844D88076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
