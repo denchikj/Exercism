@@ -97,6 +97,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sublist", "Sublist\Sublist.
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ZebraPuzzle", "ZebraPuzzle\ZebraPuzzle.fsproj", "{DEEF3053-D12A-4398-B597-95D4D184D9A7}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Connect", "Connect\Connect.fsproj", "{06E79FFA-2B2B-4650-B4BA-6C6BBC5E7658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{DEEF3053-D12A-4398-B597-95D4D184D9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEEF3053-D12A-4398-B597-95D4D184D9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEEF3053-D12A-4398-B597-95D4D184D9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E79FFA-2B2B-4650-B4BA-6C6BBC5E7658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E79FFA-2B2B-4650-B4BA-6C6BBC5E7658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E79FFA-2B2B-4650-B4BA-6C6BBC5E7658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E79FFA-2B2B-4650-B4BA-6C6BBC5E7658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
